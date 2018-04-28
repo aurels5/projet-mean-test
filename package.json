@@ -1,0 +1,19 @@
+{
+  "name": "projet-mean-test",
+  "version": "1.0.0",
+  "description": "Tuto suivi sur https://blog.cloudboost.io/mongodb-express-angularjs-1-6-and-nodejs-mean-29f136f482a9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurels5/projet-mean-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurels5/projet-mean-test/issues"
+  },
+  "homepage": "https://github.com/aurels5/projet-mean-test#readme"
+}
